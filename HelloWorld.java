@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
 public class HelloWorld {
    public static void main(String[] args) {
       // Prints "Hello, World" in the terminal window.
-      System.out.println("Hello, World");
+      System.out.println("Hello, World.");
 	  Date currentTime = new Date();
 	  System.out.println(currentTime);
 	  System.out.println(currentTime.getTime());
